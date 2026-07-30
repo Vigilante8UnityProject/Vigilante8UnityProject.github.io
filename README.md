@@ -1,2 +1,2 @@
 # .AM.github.io
-Official website for the AM Legacy V8 fan-made project
+Official website for the VIGILANTE 8: SECOND OFFENSE UNITY PROJECT WITH THE NEW MODES, FEATURES AND PORTING THE ORIGINAL VEHICLES
