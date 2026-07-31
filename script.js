@@ -176,7 +176,7 @@
         infoHtml: loadingMenuInformation
       },
       {
-        video: 'assets/news/ultimate-nostalgia-trip.mp4',
+        video: 'assets/news/ultimate-nostalgia-trip.MP4',
         eyebrow: 'PROJECT NEWS',
         title: 'get ready for the ultimate nostalgia trip!',
         date: '2026.07.29',
