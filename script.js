@@ -52,7 +52,7 @@
     <p><strong>Ported and Developed by: Ameer_007x</strong></p>`;
 
   const importantAnnouncementInformation = `
-    <p>I would like to clarify a few things regarding the original base project. Neither I nor anybody created the core Unity project. All credit, effort, and ownership of the original foundation belong to the original developer, Stephen. I want to express my sincere gratitude and appreciation to him for creating this masterpiece and bringing a forgotten game back to life. His contributions are fully recognized and credited in the Credits section.</p>
+    <p>I would like to clarify a few things regarding the original base project. Neither I nor anybody created the core Unity project. All credit, effort, and ownership of the original foundation belong to the original developer, Stefan Vranjes. I want to express my sincere gratitude and appreciation to him for creating this masterpiece and bringing a forgotten game back to life. His contributions are fully recognized and credited in the Credits section.</p>
 
     <p>As for the additions made after the original developer departed, those are entirely my work. This includes integrating classic vehicles from the original game, adding TDM and LTS game modes, alongside several major improvements and features that the community has long wished for. All this hard work was done solely to make the project better and more enjoyable for everyone—a simple word of thanks is more than enough.</p>
 
