@@ -1533,7 +1533,7 @@
       {
         role: 'ASSOCIATE DEVELOPER',
         name: 'AMEER_007x',
-        description: 'Credit goes to him for porting the original vehicles of V8, integrating TDM and LTS modes into the multiplayer system, as well as adding new features, improving the gameplay experience, and fixing bugs. Website Design and Content Creation.'
+        description: 'Credit goes to him for porting the original vehicles of V8, integrating TDM, LTS modes & Random cars mode into the multiplayer, as well as adding new features UI & HUD, improving the gameplay & online experience, and fixing bugs and Website Design and Content Creation.'
       },
       {
         role: 'ASSOCIATE DEVELOPER',
