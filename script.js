@@ -1105,7 +1105,7 @@
           <a class="social-link social-link-discord" href="https://discord.com/users/761673442353086555" target="_blank" rel="noopener noreferrer"><span class="social-link-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8.2 6.2A12 12 0 0 1 12 5.6c1.3 0 2.6.2 3.8.6l.7-1.3c1.8.5 3.2 1.2 4.2 2.2 1.2 2 1.8 4.3 1.7 6.8-1.4 1.8-3.2 3.1-5.3 3.9l-1.2-1.6c.7-.3 1.3-.7 1.9-1.1-3.7 1.7-7.9 1.7-11.6 0 .6.4 1.2.8 1.9 1.1l-1.2 1.6a12.6 12.6 0 0 1-5.3-3.9c-.1-2.5.5-4.8 1.7-6.8 1-1 2.4-1.7 4.2-2.2l.7 1.3Z"></path><circle cx="8.8" cy="12" r="1.2" class="social-icon-cut"></circle><circle cx="15.2" cy="12" r="1.2" class="social-icon-cut"></circle></svg></span><span><small>DISCORD</small><b>OPEN PROFILE</b></span></a>
           <a class="social-link social-link-email" href="mailto:ameerdavid1995@gmail.com"><span class="social-link-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M3 5h18v14H3z"></path><path d="m4 7 8 6 8-6" class="social-icon-line"></path></svg></span><span><small>EMAIL</small><b>ameerdavid1995@gmail.com</b></span></a>
         </div></article>
-        <article class="social-card social-card-infinity" data-reveal><span class="social-number">02</span><div class="social-card-heading"><small>ASSOCIATE DEVELOPER</small><h3>INFINITY4U</h3><p>Bug fixing, player support, online community maintenance, and weekly multiplayer broadcasts.</p></div><div class="social-links" aria-label="INFINITY contact links">
+        <article class="social-card social-card-infinity" data-reveal><span class="social-number">02</span><div class="social-card-heading"><small>ASSOCIATE DEVELOPER</small><h3>INFINITY</h3><p>Bug fixing, player support, online community maintenance, and weekly multiplayer broadcasts.</p></div><div class="social-links" aria-label="INFINITY contact links">
           <a class="social-link social-link-youtube" href="https://www.youtube.com/@InfiNity4U" target="_blank" rel="noopener noreferrer"><span class="social-link-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M21 7.2a2.8 2.8 0 0 0-2-2C17.2 4.7 12 4.7 12 4.7s-5.2 0-7 .5a2.8 2.8 0 0 0-2 2A29 29 0 0 0 2.5 12 29 29 0 0 0 3 16.8a2.8 2.8 0 0 0 2 2c1.8.5 7 .5 7 .5s5.2 0 7-.5a2.8 2.8 0 0 0 2-2 29 29 0 0 0 .5-4.8 29 29 0 0 0-.5-4.8Z"></path><path d="m10 9 5 3-5 3Z" class="social-icon-cut"></path></svg></span><span><small>YOUTUBE</small><b>@InfiNity4U</b></span></a>
           <a class="social-link social-link-discord" href="https://discord.com/users/642561584400564224" target="_blank" rel="noopener noreferrer"><span class="social-link-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8.2 6.2A12 12 0 0 1 12 5.6c1.3 0 2.6.2 3.8.6l.7-1.3c1.8.5 3.2 1.2 4.2 2.2 1.2 2 1.8 4.3 1.7 6.8-1.4 1.8-3.2 3.1-5.3 3.9l-1.2-1.6c.7-.3 1.3-.7 1.9-1.1-3.7 1.7-7.9 1.7-11.6 0 .6.4 1.2.8 1.9 1.1l-1.2 1.6a12.6 12.6 0 0 1-5.3-3.9c-.1-2.5.5-4.8 1.7-6.8 1-1 2.4-1.7 4.2-2.2l.7 1.3Z"></path><circle cx="8.8" cy="12" r="1.2" class="social-icon-cut"></circle><circle cx="15.2" cy="12" r="1.2" class="social-icon-cut"></circle></svg></span><span><small>DISCORD</small><b>OPEN PROFILE</b></span></a>
         </div></article>
@@ -1533,12 +1533,12 @@
       {
         role: 'ASSOCIATE DEVELOPER',
         name: 'AMEER_007x',
-          description: 'Credit goes to him for porting the original vehicles of V8, integrating TDM, LTS modes & Random cars mode into the multiplayer, as well as adding new features UI & HUD, improving the gameplay & online experience, fixing bugs and Website Design and Content Creation.'
+        description: 'Credit goes to him for porting the original vehicles of V8, integrating TDM, LTS modes & Random cars mode into the multiplayer, as well as adding new features UI & HUD, improving the gameplay & online experience, and fixing bugs and Website Design and Content Creation.'
       },
       {
         role: 'ASSOCIATE DEVELOPER',
-          name: 'INFINITY4U',
-          description: 'Credits goes to him for fixing bugs and improving the gameplay experience, maintaining the discord community, hosting the game server and website also providing support to players.'
+        name: 'INFINITY',
+        description: 'Credit goes to him for fixing bugs, maintaining the online game server, covering the multiplayer server hosting costs, providing player support, and streaming gameplay weekly.'
       }
     ];
 

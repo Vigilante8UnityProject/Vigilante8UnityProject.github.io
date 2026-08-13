@@ -1570,5 +1570,45 @@ window.V8_SITE_DATA = {
       }
     ]
   }
-]
+],
+  tutorial: {
+  "beginner": [
+    {
+      "title": "Movement",
+      "image": "assets/tutorial/tutorials-battle-background.png"
+    },
+    {
+      "title": "Weapons",
+      "image": "assets/tutorial/tutorials-battle-background.png"
+    },
+    {
+      "title": "Lock-On",
+      "image": "assets/tutorial/tutorials-battle-background.png"
+    }
+  ],
+  "advanced": [
+    {
+      "title": "Team Play",
+      "image": "assets/tutorial/tutorials-battle-background.png"
+    },
+    {
+      "title": "Special Weapons",
+      "image": "assets/tutorial/tutorials-battle-background.png"
+    },
+    {
+      "title": "Survival",
+      "image": "assets/tutorial/tutorials-battle-background.png"
+    }
+  ],
+  "master": [
+    {
+      "title": "Upgrades",
+      "image": "assets/tutorial/tutorials-battle-background.png"
+    },
+    {
+      "title": "Combat Tips",
+      "image": "assets/tutorial/tutorials-battle-background.png"
+    }
+  ]
+}
 };
