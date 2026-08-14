@@ -116,6 +116,38 @@
       <li>Enhanced Ul visibility and design.</li>
     </ul>`;
 
+  const onlinePhotonSystemOverhaulInformation = `
+    <p>A new fix has been implemented for the online server.</p>
+
+    <ul>
+      <li>Faster connections, stable room transitions, accurate Friends presence, and fully working Public/Private Match joining.❤️‍🔥</li>
+      <li>New SOLO OFFLINE / COOP ONLINE selector added to Arcade, Survival, and Quest. Offline is now the default mode, while CO-OP connects only when the player chooses it.✅</li>
+      <li>Added the game’s native Connecting screen when starting an online CO-OP session.✅</li>
+      <li>Fixed unnecessary online disconnects when switching back to offline gameplay.✅</li>
+      <li>Fixed several connection and transition issues between menus, Private Match, Matchmaking, Friends, and CO-OP.✅</li>
+      <li>Removed old delays that could make Private Match and Friends feel slow or temporarily stuck.✅</li>
+      <li>Improved online connection handling so joining or creating matches only happens when the connection is fully ready.✅</li>
+      <li>Fixed cases where an old matchmaking or room request could still continue after the player had already backed out.✅</li>
+      <li>Fixed an issue where the player’s online name could sometimes appear as a random generated ID instead of their saved username.✅</li>
+      <li>Improved the stability of player names and online identities across Friends, Private Matches, and Matchmaking.✅</li>
+      <li>Fixed the major Friends bug where players could incorrectly appear Offline while they were actually inside a Private Match or Matchmaking room.✅</li>
+      <li>Fixed an online presence conflict that could leave outdated player information active after moving into a match.✅</li>
+      <li>Player presence is now updated correctly when moving between menus and active online matches.✅</li>
+      <li>Fixed joining Private Matches directly through the Friends list.✅</li>
+      <li>Improved room transition stability to prevent invalid, outdated, or duplicated online states.✅</li>
+      <li>Added extra online safety checks to prevent network data from being sent while the connection is not ready.✅</li>
+    </ul>
+
+    <p><strong>Fixed by: Ameer_007x</strong></p>
+    <p><a href="https://www.youtube.com/watch?v=l5ang0fxAEQ" target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a></p>`;
+
+  const whatIfStyleInformation = `
+    <p>Here’s a simple prototype of the game’s UI menu,</p>
+    <p>There is two styles you can watch in the video.</p>
+    <p>Of course, it needs more adjustments and changes.</p>
+    <p><strong>by: Ameer_007x</strong></p>
+    <p><a href="https://www.youtube.com/watch?v=ENIJk3c3ydQ" target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a></p>`;
+
   const teamModesUpdateInformation = `
     <h3>VIGILANTE 8 Online Multiplayer Update – New Features &amp; Improvements</h3>
 
@@ -152,6 +184,22 @@
 
   const newsCollections = {
     news: [
+      {
+        poster: 'assets/news/online-photon-system-overhaul-cover.jpg',
+        youtubeId: 'l5ang0fxAEQ',
+        eyebrow: 'PROJECT NEWS',
+        title: 'ONLINE & PHOTON SYSTEM OVERHAUL',
+        date: '2026.08.14',
+        infoHtml: onlinePhotonSystemOverhaulInformation
+      },
+      {
+        poster: 'assets/news/what-if-style-1-2-cover.jpg',
+        youtubeId: 'ENIJk3c3ydQ',
+        eyebrow: 'PROJECT NEWS',
+        title: 'what if?… Style 1 & 2',
+        date: '2026.08.14',
+        infoHtml: whatIfStyleInformation
+      },
       {
         image: 'assets/news/important-announcement.png',
         eyebrow: 'IMPORTANT ANNOUNCEMENT',
